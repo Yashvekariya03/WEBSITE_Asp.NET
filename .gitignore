@@ -1,14 +1,4 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-*.vsidx
-/.vs/Kanku/v17/DocumentLayout.json
-/.vs/Kanku/v17
-/Kanku/bin/GlowLeaf.pdb
-/Kanku/App_Data
-
-# Build results
+﻿# Build results
 bin/
 obj/
 [Bb]uild/
@@ -78,3 +68,5 @@ packages/
 
 # Dotnet tools
 .dotnet-tools.json
+/.vs/Kanku/v17
+/.vs/Kanku/FileContentIndex
