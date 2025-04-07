@@ -5,3 +5,76 @@
 *.vsidx
 /.vs/Kanku/v17/DocumentLayout.json
 /.vs/Kanku/v17
+/Kanku/bin/GlowLeaf.pdb
+/Kanku/App_Data
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+desktop.ini
+
+# Log files
+*.log
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.symbols.nupkg
+
+# VS for Mac
+.vscode/
+.idea/
+*.sln.iml
+
+# Xamarin/MAUI specific
+*.apk
+*.ap_
+*.aab
+*.ipa
+*.app
+*.xcuserstate
+*.xcodeproj/*
+*.xcworkspace/*
+*.entitlements
+*.plist
+
+# MAUI cache
+**/Resources/Raw/*.zip
+
+# Local SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# Config transforms
+*.transform
+
+# Dotnet tools
+.dotnet-tools.json
