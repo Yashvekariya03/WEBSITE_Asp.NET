@@ -24,7 +24,7 @@
                             <br>
                             <h4>About us</h4>
                             <p style="text-align: justify">
-                                Welcome to Kanku - Where Beauty Shines Bright!
+                                Welcome to Glowleaf - Where Beauty Shines Bright!
                                 <br>
                                 At Kanku, we believe beauty is more than just looks. Our website is all about beauty
                                 products that make you feel great inside and out.
